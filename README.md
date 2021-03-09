@@ -1,6 +1,11 @@
+
 # Presentación
 
 ## Estudiante: _Nahuel Montero_
+
+![foto](https://user-images.githubusercontent.com/48897321/110552584-647b5500-8116-11eb-8523-ce7d766ea448.png)
+
+-----------------
 
 Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
 
